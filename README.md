@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 edit
 make an edit
-
-this is a remote change
+this is a local change
