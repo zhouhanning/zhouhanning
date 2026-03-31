@@ -13,7 +13,7 @@ I am a **Master of Computational Social Science** student at **UC Berkeley** and
 * **Legal Expertise**: Chinese Legal Professional Qualification and International Commercial Arbitration.
 
 ### 🎓 Education
-* **UC Berkeley**: Master of Computational Social Science .
+* **UC Berkeley**: Master of Computational Social Science.
 * **Renmin University of China**: Juris Master.
 * **Zhejiang University**: Bachelor of Laws.
 
