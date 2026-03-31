@@ -5,7 +5,7 @@ I am a **Master of Computational Social Science** student at **UC Berkeley** and
 ### 🚀 Professional Focus
 * **AI Policy & Governance**: ML Intern at **GovernAlce**, focusing on AI policy and technical compliance.
 * **Data Science for Social Impact**: Capstone Project Member at the **Center for Effective Global Action (CEGA)**, developing data-driven dashboards for refugee migration patterns.
-* **Legal Tech & LLMs**: Former LLM Data Engineering Intern at **Alibaba Group**, specializing in reinforcement learning and data curation for the legal domain.
+* **Legal Tech & LLMs**: Former LLM Data Engineering Intern at **Alibaba Group**, specializing in reinforcement learning and data curation for domains particularlu in humanities, social sciences and law.
 
 ### 🛠 Technical Toolkit
 * **Languages**: Python, R, Java.
@@ -13,9 +13,9 @@ I am a **Master of Computational Social Science** student at **UC Berkeley** and
 * **Legal Expertise**: Chinese Legal Professional Qualification and International Commercial Arbitration.
 
 ### 🎓 Education
-* **UC Berkeley**: M.S. in Computational Social Science .
+* **UC Berkeley**: Master of Computational Social Science .
 * **Renmin University of China**: Juris Master.
-* **Zhejiang University**: Bachelor of Law.
+* **Zhejiang University**: Bachelor of Laws.
 
 ### 📫 Connect with Me
 * **LinkedIn**: [hanning-zhou](https://www.linkedin.com/in/hanning-zhou/)
